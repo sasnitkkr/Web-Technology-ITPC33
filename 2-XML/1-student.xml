@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<database>
+    <student>
+        <name>Sahil Shende</name>
+        <class>IT B</class>
+        <rollno>11913102</rollno>
+    </student>
+    <student>
+        <name>Ayushyaman Khuraana</name>
+        <class>IT A</class>
+        <rollno>11913112</rollno>
+    </student>
+</database>

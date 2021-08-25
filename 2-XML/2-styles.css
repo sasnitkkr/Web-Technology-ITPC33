@@ -1,0 +1,11 @@
+class {
+    background-color: antiquewhite;
+}
+student{
+    display: block;
+    border: 2px solid salmon;
+    margin: 5px 5px;
+}
+name, rollno{
+    display: block;
+}
